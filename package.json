@@ -1,0 +1,21 @@
+{
+  "name": "redis-node-cache",
+  "version": "1.0.0",
+  "description": "a project to setup caching with nodejs and redis",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "author": "Gia Chan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.2",
+    "redis": "^4.0.1"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.15"
+  },
+  "type": "module"
+}
