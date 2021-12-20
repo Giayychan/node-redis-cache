@@ -4,7 +4,8 @@
   "description": "a project to setup caching with nodejs and redis",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index"
+    "dev": "nodemon index",
+    "start":"node index"
   },
   "author": "Gia Chan",
   "license": "ISC",
